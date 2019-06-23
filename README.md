@@ -4,6 +4,10 @@ Easy watermark reduces the pain to manually add watermarks to your images and au
 ## Prerequisities
 - Python
 
+## Example
+![alt text](https://i.imgur.com/Gwf6d9O.jpg)
+Watermarked using the program
+
 ## Running the program
 - Step 0, download the repository and open a console inside the folder, setup a virtual environment and activate it.
 - First step is to download the required dependencies. To do that, run the following command on your console:
