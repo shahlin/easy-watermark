@@ -194,6 +194,9 @@ validate_watermark(watermark_arg)
 # Get the list of images from the given path (Can also be just one image)
 image_list = get_images_list(image_arg)
 
+if len(image_list) < 1:
+    exit("No images to add watermark to")
+
 # Get the type of image - File or Dir
 image_type = image_file_or_dir(image_arg)
 
