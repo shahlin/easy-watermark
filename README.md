@@ -3,7 +3,6 @@ Easy watermark reduces the pain to manually add watermarks to your images and au
 
 ## Prerequisities
 - Python
-- Watermark image (.png)
 
 ## Running the program
 - Step 0, download the repository and open a console inside the folder, setup a virtual environment and activate it.
